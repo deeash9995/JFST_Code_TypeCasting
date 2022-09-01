@@ -27,6 +27,9 @@ In Java, there are two types of casting:
         double -> float -> long -> int -> char -> short -> byte
 
 Task : 
+
         1. Consider two containers, Solid and Liquid with volume as its property
+
         2. Perform a **narrow type casting** of the value of the container's 'volume' and display the value
+
         3. Similarly create properties of other types for the containers and perform narrow and wide type casting and display the values.
